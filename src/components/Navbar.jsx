@@ -39,7 +39,7 @@ function Navbar() {
                 >
                   <span
                     className={`${
-                      language === "en" ? "translate-x-8" : "translate-x-1"
+                      language === "en" ? "translate-x-8" : "translate-x-0"
                     } inline-block w-6 h-6 transform bg-emerald-600 rounded-full transition-transform`}
                   />
                   <span className="absolute right-0 top-7 text-xs text-emerald-700 font-semibold">
