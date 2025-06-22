@@ -56,32 +56,23 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    title_en: "Weather App",
-    title_tr: "Hava Durumu Uygulaması",
+    title_en: "Organic Food",
+    title_tr: "Organik Gıda",
     description_en:
-      "A sleek weather forecast app using OpenWeather API, built with React and Tailwind CSS.",
+      "A responsive front-end website built with HTML and Sass using the 7-1 architecture. The layout system is powered by Bootstrap’s grid only, and all styles are written in Sass and compiled to vanilla CSS.",
     description_tr:
-      "React ve Tailwind CSS ile geliştirilen şık bir hava durumu tahmin uygulaması. OpenWeather API kullanılmıştır.",
-    video_url: "https://www.youtube.com/embed/P-aeQSTotEM",
+      "7-1 mimarisiyle HTML ve Sass kullanılarak oluşturulmuş duyarlı bir ön yüz projesidir. Yerleşim sistemi yalnızca Bootstrap grid sistemiyle sağlanmıştır. Tüm stiller Sass ile yazılmış ve vanilla CSS’e derlenmiştir.",
+    video_url: "https://www.youtube.com/embed/PASTE_ORGANIC_FOOD_VIDEO_URL_HERE",
   },
   {
     id: nanoid(),
-    title_en: "Task Manager",
-    title_tr: "Görev Yöneticisi",
+    title_en: "Basic Task Manager",
+    title_tr: "Temel Görev Yöneticisi",
     description_en:
-      "A responsive to-do list web app with dark mode, built using JavaScript and local storage.",
+      "A simple full-stack task management application built with Node.js, Express, and MongoDB. Users can create, update, and delete tasks. No authentication or JWT is implemented — just a basic CRUD application.",
     description_tr:
-      "JavaScript ve localStorage ile geliştirilmiş, karanlık mod destekli duyarlı bir yapılacaklar listesi uygulaması.",
-    video_url: "https://www.youtube.com/embed/Q4axtMZOCzo",
-  },
-  {
-    id: nanoid(),
-    title_en: "E-commerce Template",
-    title_tr: "E-ticaret Şablonu",
-    description_en:
-      "A front-end template for e-commerce websites featuring React Router and reusable components.",
-    description_tr:
-      "React Router ve yeniden kullanılabilir bileşenlerle hazırlanmış bir e-ticaret web sitesi şablonu.",
-    video_url: "https://www.youtube.com/embed/ZyPgG7atmb8",
+      "Node.js, Express ve MongoDB ile geliştirilmiş basit bir full-stack görev yönetim uygulamasıdır. Kullanıcılar görev ekleyebilir, güncelleyebilir ve silebilir. Kimlik doğrulama ya da JWT gibi gelişmiş özellikler bulunmamaktadır — yalnızca temel bir CRUD projesidir.",
+    video_url: "https://www.youtube.com/embed/PASTE_TASK_MANAGER_VIDEO_URL_HERE",
   },
 ];
+
