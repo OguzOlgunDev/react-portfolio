@@ -73,6 +73,15 @@ export const projects = [
     description_tr:
       "Node.js, Express ve MongoDB ile geliştirilmiş basit bir full-stack görev yönetim uygulamasıdır. Kullanıcılar görev ekleyebilir, güncelleyebilir ve silebilir. Kimlik doğrulama ya da JWT gibi gelişmiş özellikler bulunmamaktadır — yalnızca temel bir CRUD projesidir.",
     video_url: "https://www.youtube.com/embed/TBiT6c6Hoxs",
+  }, {
+    id: nanoid(),
+    title_en: "CMS Project Portfolio (React & Contentful)",
+    title_tr: "CMS Proje Portföyü (React & Contentful)",
+    description_en:
+      "A React-based CMS project portfolio that demonstrates how to fetch and display my projects using Contentful API. It integrates a headless CMS into a React frontend to manage and render content dynamically.",
+    description_tr:
+      "Projelerimi Contentful API ile çekip gösteren, React tabanlı bir CMS proje portföyü. Headless CMS’i React ön yüzde entegre ederek içeriği dinamik olarak yönetip render ediyor.",
+    video_url: "https://www.youtube.com/embed/PASTE_CMS_PROJECT_VIDEO_URL_HERE",
   },
 ];
 
