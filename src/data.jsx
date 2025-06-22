@@ -81,7 +81,7 @@ export const projects = [
       "A React-based CMS project portfolio that demonstrates how to fetch and display my projects using Contentful API. It integrates a headless CMS into a React frontend to manage and render content dynamically.",
     description_tr:
       "Projelerimi Contentful API ile çekip gösteren, React tabanlı bir CMS proje portföyü. Headless CMS’i React ön yüzde entegre ederek içeriği dinamik olarak yönetip render ediyor.",
-    video_url: "https://www.youtube.com/embed/PASTE_CMS_PROJECT_VIDEO_URL_HERE",
+    video_url: "https://www.youtube.com/embed/LUC1eyRqyxA",
   },
 ];
 
