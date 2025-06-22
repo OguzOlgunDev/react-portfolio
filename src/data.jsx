@@ -62,7 +62,7 @@ export const projects = [
       "A responsive front-end website built with HTML and Sass using the 7-1 architecture. The layout system is powered by Bootstrap’s grid only, and all styles are written in Sass and compiled to vanilla CSS.",
     description_tr:
       "7-1 mimarisiyle HTML ve Sass kullanılarak oluşturulmuş duyarlı bir ön yüz projesidir. Yerleşim sistemi yalnızca Bootstrap grid sistemiyle sağlanmıştır. Tüm stiller Sass ile yazılmış ve vanilla CSS’e derlenmiştir.",
-    video_url: "https://www.youtube.com/embed/PASTE_ORGANIC_FOOD_VIDEO_URL_HERE",
+    video_url: "https://www.youtube.com/embed/uVq8H_loDl8",
   },
   {
     id: nanoid(),
@@ -72,7 +72,7 @@ export const projects = [
       "A simple full-stack task management application built with Node.js, Express, and MongoDB. Users can create, update, and delete tasks. No authentication or JWT is implemented — just a basic CRUD application.",
     description_tr:
       "Node.js, Express ve MongoDB ile geliştirilmiş basit bir full-stack görev yönetim uygulamasıdır. Kullanıcılar görev ekleyebilir, güncelleyebilir ve silebilir. Kimlik doğrulama ya da JWT gibi gelişmiş özellikler bulunmamaktadır — yalnızca temel bir CRUD projesidir.",
-    video_url: "https://www.youtube.com/embed/PASTE_TASK_MANAGER_VIDEO_URL_HERE",
+    video_url: "https://www.youtube.com/embed/TBiT6c6Hoxs",
   },
 ];
 
