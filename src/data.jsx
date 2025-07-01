@@ -54,6 +54,17 @@ export const skills = [
 ];
 
 export const projects = [
+{
+  id: nanoid(),
+  title_en: "Store-First E-commerce Project (Next.js)",
+  title_tr: "Store-First E-Ticaret Projesi (Next.js )",
+  description_en:
+    "A full-featured e-commerce platform built with modern web technologies. The project is developed using Next.js, styled with Tailwind CSS and Shadcn UI. It uses Supabase for database management and Prisma ORM for secure and scalable data access. Clerk is integrated for authentication, allowing users to manage accounts, add products to favorites or cart, and access protected admin routes.",
+  description_tr:
+    "Modern web teknolojileriyle geliştirilmiş, tam işlevli bir e-ticaret platformu. Next.js kullanılarak geliştirilen proje, Tailwind CSS ve Shadcn UI ile tasarlanmıştır. Veritabanı yönetiminde Supabase, veri modelleme ve güvenli erişimde ise Prisma ORM tercih edilmiştir. Kimlik doğrulama için Clerk entegre edilmiştir. Kullanıcılar hesaplarını yönetebilir, ürünleri favorilere veya sepete ekleyebilir, korumalı admin paneline erişebilir.",
+  video_url: "https://www.youtube.com/embed/2fmbMBqXG10",
+}
+
   {
     id: nanoid(),
     title_en: "Organic Food",
