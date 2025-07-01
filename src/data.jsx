@@ -63,7 +63,7 @@ export const projects = [
   description_tr:
     "Modern web teknolojileriyle geliştirilmiş, tam işlevli bir e-ticaret platformu. Next.js kullanılarak geliştirilen proje, Tailwind CSS ve Shadcn UI ile tasarlanmıştır. Veritabanı yönetiminde Supabase, veri modelleme ve güvenli erişimde ise Prisma ORM tercih edilmiştir. Kimlik doğrulama için Clerk entegre edilmiştir. Kullanıcılar hesaplarını yönetebilir, ürünleri favorilere veya sepete ekleyebilir, korumalı admin paneline erişebilir.",
   video_url: "https://www.youtube.com/embed/2fmbMBqXG10",
-}
+},
 
   {
     id: nanoid(),
