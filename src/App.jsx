@@ -4,6 +4,7 @@ import Skills from "./components/Skills";
 import About from "./components/About";
 import LanguageFadeWrapper from "./LanguageFadeWrapper";
 import Projects from "./components/Projects";
+import ContactForm from "./components/Contact";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
+      <ContactForm />
     </LanguageFadeWrapper>
   );
 }
