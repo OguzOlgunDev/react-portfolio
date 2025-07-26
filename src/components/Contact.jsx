@@ -6,8 +6,11 @@ function ContactForm() {
   const [state, handleSubmit] = useForm("movldyvn");
 
   return (
-    <section className="max-w-7xl mx-auto pb-24" id="contact">
-      <form onSubmit={handleSubmit} className="mx-auto max-w-6xl  space-y-6">
+    <section className="max-w-7xl   mx-auto pb-24" id="contact">
+      <form
+        onSubmit={handleSubmit}
+        className="mx-auto max-w-6xl   px-8  space-y-6"
+      >
         {state.succeeded && (
           <p className="text-green-600 text-center font-semibold border border-green-300 rounded-md p-3 bg-green-50">
             ✅ Mesajınız başarıyla gönderildi. Teşekkür ederim!
